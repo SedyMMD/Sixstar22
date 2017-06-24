@@ -362,8 +362,8 @@ _مثال:_
 🔹نوشتن کلمه با 100 فونت مختلف
 		
 *___________________________*
-*کانال*: @titantims
-سازنده :@mohammadrezajiji
+channel💡*: @sixstar_team
+Creator💡: @SedyMMD
 ]]
 tdcli.sendMessage(msg.chat_id_, 0, 1, helpfun, 1, 'md')
 end
@@ -388,4 +388,4 @@ return {
 	run = run,
 	}
 
---#by @titantims :)
+--#by @sixstar_team :)
