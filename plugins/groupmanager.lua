@@ -4,9 +4,9 @@ local lang = redis:get(hash)
     -- superuser and admins only (because sudo are always has privilege)
     if not is_admin(msg) then
    if not lang then
-        return '#》*You are not bot admin*🚷'
+        return '#》*You are not bot admin😢*🚷'
 else
-     return '#》_شما مدیر ربات نیستید_🚷'
+     return '#》_😢خنگ تو مدیر ربات نیستی_🚷'
     end
 end
     local data = load_data(_config.moderation.data)
@@ -71,9 +71,9 @@ local lang = redis:get(hash)
     -- superuser and admins only (because sudo are always has privilege)
       if not is_admin(msg) then
      if not lang then
-        return '#》*Yσυ αяє ησт вσт α∂мιη*🚷'
+        return '#》*Yσυ αяє ησт вσт α∂мιη😢*🚷'
    else
-        return '#》_شما مدیر ربات نیستید_🚷'
+        return '#》_😢خنگ تو مدیر ربات نیستی_🚷'
     end
    end
     local data = load_data(_config.moderation.data)
@@ -3316,8 +3316,8 @@ end
 
 if matches[1] == "راهنما" and is_mod(msg) then
 text = [[
-*📜Help of 🛡titan🛡 tg*
-#Titantg🏷
+*📜Help of 🛡TeleStar🛡 tg*
+#TeleStar🏷
 〰〰〰〰〰〰〰〰〰〰〰
 🔖راهنمای دستورات :
 
@@ -3343,8 +3343,8 @@ text = [[
 🔶دستورات سودو
 نمایش دستورات صاحب ربات
 *___________________________*
-*Channel*: @titantims
-_powered by_ :@mohammadrezajiji
+channel💡*: @sixstar_team
+Creator💡: @SedyMMD
 ]]
 return text
 end
@@ -3470,8 +3470,8 @@ text = [[
 🔹*بیصدا کیبورد*
 🔸*باصدا کیبورد*
 *___________________________*
-*کانال*: @titantims
-سازنده :@mohammadrezajiji
+*channel💡*: @sixstar_team
+Creator💡: @SedyMMD
 ]]
 return text
 end
@@ -3598,7 +3598,8 @@ text = [[
 *تنظیم خوش امد [متن]*
 🔹ثبت پیام خوش آمد گویی
 
-*پاک کردن * [1-1000]
+*پاک کردن پیام های گروه]
+ *پاک کردن* [1-1000
 🔹پاک کردن تعداد پیام اخیر سورپر گروه
 
 *پاک کردن پیام ها [ریپلای]*
@@ -3607,8 +3608,8 @@ text = [[
 *دعوت مسدود ها*
 🔹اضافه کردن افراد که در لیست مسدود گروه هستند به گروه       
 *___________________________*
-*کانال*: @titantims
-سازنده :@mohammadrezajiji
+*channel💡*: @sixstar_team
+Creator💡: @SedyMMD
 ]]
 return text
 end
@@ -3677,9 +3678,9 @@ local lang = redis:get(hash)
      welcome = administration[arg.chat_id]['setwelcome']
       else
      if not lang then
-     welcome = "*Welcome *"
+     welcome = "*Welcome🔆 *"
     elseif lang then
-     welcome = "_خوش آمدید_"
+     welcome = "_🔆خوش آمدید_"
         end
      end
  if administration[tostring(arg.chat_id)]['rules'] then
@@ -3783,4 +3784,4 @@ patterns ={
 run=run,
 pre_process = pre_process
 }
---end groupmanager.lua #@mohammadrezajiji
+--end groupmanager.lua #@SedyMMD
