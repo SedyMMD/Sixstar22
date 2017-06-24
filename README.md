@@ -7,7 +7,7 @@
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/sixstar_team"><font size="100">parsol.v3</font></a>
+<a href="https://telegram.me/sixstar_team"><font size="100">sixstar.v3</font></a>
 <h3><p dir="rtl">SixStar سورسی جدید و بروز از تیم       :)
 <br>
 <h3 align="right"> <strong></strong>
