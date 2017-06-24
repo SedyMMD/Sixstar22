@@ -1,14 +1,14 @@
 <p 
     <div align="center">
-    <a href="https://telegram.me/titanteams">
+    <a href="https://telegram.me/sixstar_team">
         <img src="http://upir.ir/951/guest/Untitled-7.png" hspace="10" width="150">
     </a>
-    <a href="https://telegram.me/mohammadrezajiji">
+    <a href="https://telegram.me/SedyMMD">
         <img src="http://upir.ir/951/guest/Untitled-6.png" width="150">
     </a>
 </div>
-<a href="https://telegram.me/titanteams"><font size="100">parsol.v3</font></a>
-<h3><p dir="rtl">سورسی کاملا فارسی در زمینه تیجی های جدید :)
+<a href="https://telegram.me/sixstar_team"><font size="100">parsol.v3</font></a>
+<h3><p dir="rtl">SixStar سورسی جدید و بروز از تیم       :)
 <br>
 <h3 align="right"> <strong></strong>
 </h3>
@@ -30,17 +30,17 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/mohammadrezatitan/parsol.git</span>
-<span>cd parsol</span>
-<span>chmod +x parsol.sh</span>
-<span>./parsol.sh install</span>
-<span>./parsol.sh</span>
+<span>git clone https://github.com/sixstar22.git</span>
+<span>cd launch</span>
+<span>chmod +x launch.sh</span>
+<span>./launch.sh install</span>
+<span>./launch.sh</span>
 </pre>
 <h4 dir="rtl">نصب ربات(روش دوم)
 <br></h4>
 <h6 dir="rtl"></h6>
 <pre>
-<span>cd $HOME && git clone https://github.com/mohammadrezatitan/parsol.git && cd parsol && chmod +x parsol.sh && ./parsol.sh install && ./parsol.sh 
+<span>cd $HOME && git clone https://github.com/sixstar22.git && cd launch && chmod +x launch.sh && ./launch.sh install && ./launch.sh 
 </span>
 </pre>
 <hr>
@@ -49,7 +49,7 @@
 </h6>
 <pre>
     sudo_users = {
-    267785153,
+    233035556,
     YourID
     </pre>
 <hr>
@@ -58,13 +58,13 @@
 <pre>
 <span>killall screen</span>
 <span>killall .telegram-cli</span>
-<span>cd parsol</span>
-<span>screen ./parsol.sh</span>
+<span>cd launch</span>
+<span>screen ./launch.sh</span>
 </pre>
 <h6 dir="rtl">ابتدا یک توکن از @botfather دریافت کنید سپس توکن رو به جای عبارت [token] در auto.sh قرار دهید و کد های زیر را در ترمینال وارد کنید
 <h5 dir="rtl">اتولانچ (بدون خاموشی)
 <pre>
-cd parsol
+cd launch
 chmod +x ./auto.sh
 screen ./auto.sh
 </pre>
@@ -73,12 +73,12 @@ screen ./auto.sh
 
 اموزش های بیش تر در کانال
 
-# [mohammadrezajiji](https://telegram.me/mohammadrezajiji)
+# [SedyMMD](https://telegram.me/SedyMMD)
 
 
 ###  Telegram channel:
 
-# [Titanteam](https://telegram.me/titantims)
+# [SixStar](https://telegram.me/sixstar_team)
 
 ### thanks to   
 
